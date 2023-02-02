@@ -26,7 +26,7 @@ export default function Home({ allPostsData }) {
           I built this blog using the{" "}
           <a href="https://nextjs.org/learn/foundations/about-nextjs?utm_source=next-site&utm_medium=nav-cta&utm_campaign=next-website">
             tutorial
-          </a>
+          </a>{" "}
           in the nextJS documentation. This has honestly been one of the best
           tutorials I have used. I look forward to merging the the simplicity of
           Next with my existing React skills to create some cool projects soon!
